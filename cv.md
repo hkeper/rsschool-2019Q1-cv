@@ -60,4 +60,4 @@ Projects: https://www.opuscapita.com/solutions/source-to-pay , https://www.opusc
 #### IT education:
 * codecademy.com, htmlbook.ru, WebRef.ru, learn.javascript.ru, sql-ex.ru, udacity.com, javarush.ru, etc.
 #### Certificates:
-* ISTQB - Certified Tester Foundation Level: [Profile link](https://www.gasq.org/en/registration/expert/expert/3709B89C-7B3F-46BB-A445-6724D8151FE8.html)
+* ISTQB - Certified Tester Foundation Level: [Certification Profile link](https://www.gasq.org/en/registration/expert/expert/3709B89C-7B3F-46BB-A445-6724D8151FE8.html)
