@@ -2,8 +2,8 @@
 
 #### Name: Mikhail Makeikin
 #### Contact:
-- phone: +375(44)737-56-67, 
-- email: hkeper1@gmail.com,
+- phone: +375(44)737-56-67 
+- email: hkeper1@gmail.com
 - github: https://github.com/hkeper
 
 ### SUMMARY:
